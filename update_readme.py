@@ -3,8 +3,8 @@ import os
 import re
 
 # Adjust these as needed:
-CHAPTERS_DIR = "chapters"    # Folder containing your Markdown chapter files
-MKDOCS_FILE = "mkdocs.yml"   # MkDocs configuration file to create/update
+CHAPTERS_DIR = "chapters"      # Folder containing your Markdown chapter files
+MKDOCS_FILE = "mkdocs.yml"     # MkDocs configuration file to create/update
 SITE_NAME = "My Awesome Book"  # Change to your book's title
 
 def get_chapter_title(file_path):
@@ -14,7 +14,6 @@ def get_chapter_title(file_path):
     """
     with open(file_path, "r", encoding="utf-8") as f:
         for line in f:
-            # Look for a Markdown heading; you can adjust the regex if needed.
             match = re.match(r"^\s*#+\s+(.*)", line)
             if match:
                 return match.group(1).strip()
@@ -35,18 +34,17 @@ def main():
     # Generate the navigation section for MkDocs config
     nav_lines = []
     for filename, title in chapters:
-        # MkDocs nav expects an indented list with key: value pairs.
         nav_lines.append(f"  - {title}: {CHAPTERS_DIR}/{filename}")
 
     nav_content = "\n".join(nav_lines)
 
-    # Create the mkdocs.yml content
+    # Create the mkdocs.yml content with the readthedocs theme
     mkdocs_config = f"""site_name: {SITE_NAME}
 nav:
 {nav_content}
 
 theme:
-  name: material
+  name: readthedocs
 """
 
     # Write out the updated mkdocs.yml file

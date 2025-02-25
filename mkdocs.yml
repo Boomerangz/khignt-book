@@ -13,4 +13,4 @@ nav:
   - z_plot: chapters/z_plot.md
 
 theme:
-  name: material
+  name: readthedocs
