@@ -1,0 +1,16 @@
+image: python:3.9
+
+stages:
+  - build
+
+pages:
+  stage: build
+  script:
+    # - python3 update_readme.py       # Run the script to update mkdocs.yml
+    - pip install mkdocs mkdocs-material
+    - mkdocs build --clean -d public
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
