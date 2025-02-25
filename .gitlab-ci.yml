@@ -12,5 +12,6 @@ pages:
   artifacts:
     paths:
       - public
+  pages: true
   only:
     - main
