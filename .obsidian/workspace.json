@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/chapter3.1.md",
+                "file": "chapters/chapter4.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter3.1"
+              "title": "chapter4.0"
             }
           }
         ],
@@ -175,14 +175,14 @@
   },
   "active": "e1185b162fa83b36",
   "lastOpenFiles": [
+    "chapters/chapter4.1.md",
+    "chapters/chapter4.0.md",
+    "chapters/chapter3.1.md",
     "chapters/chapter5.md",
     "chapters/chapter3.0.md",
     "chapters/chapter3.md",
-    "chapters/chapter4.0.md",
-    "chapters/chapter3.1.md",
     "chapters/chapter4.md",
     "chapters/z_plot.md",
-    "chapters/chapter4.1.md",
     "chapters/0_prolog.md",
     "chapters/chapter1.md",
     "chapters/chapter7.md",

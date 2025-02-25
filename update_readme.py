@@ -3,18 +3,19 @@ import os
 import re
 
 # Adjust these as needed:
-CHAPTERS_DIR = "chapters"  # folder containing your Markdown chapter files
-README_FILE = "README.md"  # README file to update
+CHAPTERS_DIR = "chapters"    # Folder containing your Markdown chapter files
+MKDOCS_FILE = "mkdocs.yml"   # MkDocs configuration file to create/update
+SITE_NAME = "My Awesome Book"  # Change to your book's title
 
 def get_chapter_title(file_path):
     """
-    Returns the first '##' heading found in the file.
-    If none is found, returns None.
+    Returns the first heading (starting with '#' or '##') found in the file.
+    Falls back to the filename (without extension) if no heading is found.
     """
     with open(file_path, "r", encoding="utf-8") as f:
         for line in f:
-            # Look for a line that starts with "## " (ignoring leading whitespace)
-            match = re.match(r"^\s*##\s+(.*)", line)
+            # Look for a Markdown heading; you can adjust the regex if needed.
+            match = re.match(r"^\s*#+\s+(.*)", line)
             if match:
                 return match.group(1).strip()
     return None
@@ -28,42 +29,31 @@ def main():
             file_path = os.path.join(CHAPTERS_DIR, filename)
             title = get_chapter_title(file_path)
             if not title:
-                # Fallback to the filename if no heading is found
                 title = os.path.splitext(filename)[0]
             chapters.append((filename, title))
 
-    # Generate a Markdown list of chapters with links
-    chapter_lines = []
+    # Generate the navigation section for MkDocs config
+    nav_lines = []
     for filename, title in chapters:
-        # The link will point to the file in the chapters folder.
-        chapter_lines.append(f"- [{title}]({CHAPTERS_DIR}/{filename})")
-    toc = "\n".join(chapter_lines)
+        # MkDocs nav expects an indented list with key: value pairs.
+        nav_lines.append(f"  - {title}: {CHAPTERS_DIR}/{filename}")
 
-    # Define markers to allow updating only the TOC section in README.md
-    start_marker = "<!-- CHAPTERS START -->"
-    end_marker = "<!-- CHAPTERS END -->"
-    new_section = f"{start_marker}\n{toc}\n{end_marker}"
+    nav_content = "\n".join(nav_lines)
 
-    # Read existing README.md content if it exists
-    if os.path.exists(README_FILE):
-        with open(README_FILE, "r", encoding="utf-8") as f:
-            content = f.read()
-    else:
-        content = ""
+    # Create the mkdocs.yml content
+    mkdocs_config = f"""site_name: {SITE_NAME}
+nav:
+{nav_content}
 
-    # Replace the chapter list between markers if they exist; otherwise, append it.
-    if start_marker in content and end_marker in content:
-        pattern = re.compile(f"{re.escape(start_marker)}.*?{re.escape(end_marker)}", re.DOTALL)
-        new_content = pattern.sub(new_section, content)
-    else:
-        # Optionally, you can prepend or append the new section.
-        new_content = content.strip() + "\n\n" + new_section + "\n"
+theme:
+  name: material
+"""
 
-    # Write out the updated README.md
-    with open(README_FILE, "w", encoding="utf-8") as f:
-        f.write(new_content)
+    # Write out the updated mkdocs.yml file
+    with open(MKDOCS_FILE, "w", encoding="utf-8") as f:
+        f.write(mkdocs_config)
 
-    print(f"Updated {README_FILE} with {len(chapters)} chapter link(s).")
+    print(f"Updated {MKDOCS_FILE} with {len(chapters)} chapter(s).")
 
 if __name__ == "__main__":
     main()
