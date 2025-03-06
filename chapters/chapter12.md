@@ -1,119 +1,295 @@
-Глава 12. Перекрёсток
+## Глава 12. Перекрёсток
 
-The mountain pass behind them fell away into mist as Tim, Thomas, and Bran crested the final ridge. Before them stretched a valley unlike anything Tim had ever seen during his years in the south—a vast expanse of heather-covered moorland, dotted with ancient standing stones and crossed by silver streams. Low stone cottages with thatched roofs clustered around a central clearing, smoke rising from chimneys in thin, straight columns that seemed to pierce the low-hanging clouds.
+Горный перевал позади них растворился в тумане, когда Тим, Томас и Бран добрались до последнего хребта. Перед ними раскинулась долина, которую Тим не видел целый год — необъятные просторы вересковых пустошей, усеянные древними камнями и пересеченные серебристыми ручьями. Низкие каменные дома с соломенными крышами теснились вокруг центральной поляны, дым из труб поднимался тонкими, прямыми столбами, словно пронзая низко висящие облака.
 
-"Home smells the same," Tim said quietly, breathing in the scent of peat smoke, damp earth, and heather. The dragon's blood metal of his repaired helmet hummed faintly against his fingertips, responding to the land around them.
+—  Пахнет как дома, — тихо произнес Тим, вдыхая запах вереска.
 
-The trio descended toward the settlement, following a path marked by cairns—carefully balanced stone piles that Tim remembered helping to maintain as a child. Bran walked with unusual tension in his shoulders.
+Трое спустились к поселению, следуя тропе, отмеченной небольшими холмиками из камней.
 
-"Something troubles you?" Tim asked.
+Томас остановился у одного из таких холмиков, недоверчиво пнул его носком сапога. — Странно видеть такие аккуратные груды камней посреди пустоши. Точно не могильники?
 
-"This place recognizes what I am," Bran replied, sniffing the air. "The curse feels... different here. More like a mantle than a burden."
+— Не трогай их! — Тим быстро схватил его за руку. — Это путевые знаки. Когда туман застает в пути или снежная буря налетает, по ним можно не сбиться с дороги. Разрушишь — кто-то может заблудиться и замерзнуть насмерть.
 
-As they approached the outskirts, they passed through a circle of standing stones. Each was weathered by centuries of driving rain and wind, etched with spiral patterns and ancient Pictish symbols that Tim recognized from his childhood.
+— Забавно, — хмыкнул Томас, отступая. — У нас на юге такие тропы обычно отмечают деревьями с зарубками или цветными лентами. 
 
-"The stones of Caer Donn," he said, placing his palm against the tallest monolith. "My clan's ancestors raised these before written memory."
+— Камень надежнее, — сказал Тим. — Его не унесет ветер.
 
-Thomas observed with interest. "Your clan?"
+Когда они подошли к окраине деревни, их путь пересек круг высоких вертикальных камней. Каждый был выветрен веками дождей и ветров, покрыт спиральными узорами и древними символами.
 
-"MacFiach," Tim replied. "Though southern tongues struggled with it, so my father used the simpler form when we moved." He traced a weathered wolf symbol carved into the stone. "Each northern clan has its totem and territory, marked by stone circles like these."
+Тим на мгновение замедлил шаг, положил ладонь на ближайший камень. Что-то было в этом родное и успокаивающее.
 
-Beyond the stones, the village proper revealed itself—sturdy cottages of gray stone with thick walls and small windows built to withstand the harsh winters. The larger buildings had been constructed partially underground, with earthen roofs sprouting heather and wildflowers. At the village center stood a circular stone hall with a conical roof, smoke escaping through a central opening.
+— Охранный круг, — тихо сказал он. — Такие есть у каждой северной деревни. Этот называют Камнями Каэр Донн.
 
-The villagers emerged as word of strangers spread. Men wore simple woolen kilts in muted greens and blues, crossed with plaid patterns that identified their clan loyalties. Many wore their hair long, beards braided with silver and iron beads. The women wore practical dresses layered with wool shawls dyed with natural pigments, hair braided and pinned with carved bone ornaments.
+— Старый, — принюхался Бран, проходя мимо камней. — Очень старый. Пахнет временем.
 
-An elderly woman approached first, leaning on a blackthorn staff topped with a polished amber stone. Behind her walked a young man carrying a wooden quaich—a two-handled drinking bowl filled with clear liquid.
+— Отец говорил, что они стояли здесь задолго до первых людей, — кивнул Тим. — Никто даже не помнит, кто их поставил.
 
-"You come from beyond the moors," she stated, studying them with keen eyes. "But one returns to his hearth." Her gaze settled on Tim with a flash of recognition. "A son of Clan MacFiach, by the look of you. Your father was Callum's boy, wasn't he?"
+Отец когда-то рассказывал ему, что в древности на этих камнях записывали истории, когда ещё не существовало письменности. Каждый узор имел своё значение. Но теперь мало кто помнил, как их читать.
 
-Tim nodded, surprised to be remembered after so many years. "Aye, I'm his son."
+Томас с профессиональным интересом оглядел высокие камни, прикидывая что-то в уме.
 
-The woman gestured to the young man, who stepped forward offering the quaich. "Then drink and be welcome, for blood returns to blood."
+— Неплохая линия обороны, если правильно использовать, — задумчиво произнёс он, оценивая расположение. — Хотя для полного периметра маловато будет. Хм... Можно натянуть цепи между ними, создать препятствие для кавалерии...
 
-Tim took the ceremonial bowl and sipped the clear liquid—uisge beatha, the water of life, strong and peaty. He passed it to Thomas, who followed his example, and then to Bran, completing the ritual.
+— Томас! — закатил глаза Тим. — Этот круг не для войны. Наши предки ставили их, чтобы защитить деревни от злых духов, а не от солдат.
 
-The woman nodded with approval. "I am Moira, keeper of this village's stories. And you, young MacFiach?"
+— Хм, — Томас не выглядел убежденным. — Но сработать то может...
 
-"Tim," he replied, then corrected himself, slipping into the accent of his childhood. "Timmor MacFiach."
+Они прошли между камнями, и Томас, всё ещё с интересом осматриваясь, спросил:
 
-Thomas looked at Tim with new understanding, hearing this fuller version of his name for the first time.
+— А твоя родная деревня похожа на эту? То же от духов защищаются?
 
-"And your companions?" Moira asked.
+— Отчасти, — ответил Тим. — Я из-за Лисьего перевала. У нас тоже был каменный круг, только с изображением волка, а не ворона. — Он провёл пальцем по выветренному символу птицы на одном из камней. — Каждый северный род имеет своего покровителя и свою территорию. Мы — волки, они — вороны.
 
-"Thomas of the Southern Marches," Tim introduced, "and Bran of the Deep Woods, who walks between forms."
+За камнями деревня открылась во всей полноте — крепкие серые каменные дома с толстыми стенами и маленькими окнами, построенные, чтобы выдерживать суровые зимы. Более крупные здания были частично вкопаны в землю, их земляные крыши поросли вереском и полевыми цветами. В центре деревни стоял круглый каменный зал с конической крышей, дым выходил через центральное отверстие.
 
-Moira studied Bran with particular interest. "The old magic still touches some, I see." She turned back to Tim. "You've come at a complicated time, young MacFiach. The Order of the Serpent visits tomorrow for the spring tithe."
+На окраине молодая женщина развешивала выстиранные вещи, помогая ей, двое детей с серьезными лицами подавали прищепки. При виде чужаков младший, мальчик лет пяти, спрятался за мать. Старшая, девочка с рыжими косами, внимательно разглядывала путников.
 
-Before Tim could inquire further, the hollow sound of a carved wooden horn echoed across the moor. The villagers turned toward the path leading to the village.
+— Здравы будьте! — поприветствовал их Тим, вскидывая руку в традиционном приветствии.
 
-A procession approached from the east. Men and women in deep crimson robes walked with measured steps. Their garments were richly embroidered with golden thread depicting a flame encircled by celestial bodies. They carried banners bearing the same symbol, flapping in the stiff breeze.
+Женщина быстро обернулась, напряглась, но затем неуверенно улыбнулась:
 
-Their leader, a tall figure with silver at his temples and an air of austere dignity, walked ahead of the group. He carried an ornate staff topped with a crystal that pulsed with a soft red glow. At his side hung a ceremonial dirk with an elaborate pommel.
+— И вам... благо. — Она пристально всмотрелась в Тима. — Вы... ищете кого-то?
 
-The villagers' expressions shifted to careful neutrality. Moira straightened her posture, her face showing the practiced diplomacy of one who has navigated difficult political waters for decades.
+— Крышу над головой, если честно, — ответил Тим
 
-"They're early," she muttered. "The Order never visits until the equinox."
+Женщина помедлила, затем кивнула и указала в сторону центральной площади.
 
-The red-robed leader raised his hands in benediction. "Children of the North," he intoned in a rich, resonant voice that carried across the gathering. "The Covenant of the Eternal Flame brings greetings and blessings."
+— Идите к общинному дому. Мойра решит, можно ли вам остаться, — она понизила голос, оглядываясь, словно проверяя, не слышит ли их кто-то. — Она... знает, что делать. С чужаками.
 
-Several villagers bowed their heads. Others remained expressionless.
+Тим нахмурился, удивленный её настороженностью.
 
-"The Season of Renewal approaches," the Order's leader continued. "The Eternal Flame, Guardian of Ancient Wisdom, seeks offerings to maintain harmony between our realm and the higher domains." His smile was practiced and did not reach his eyes. "Which clans will demonstrate their fidelity through sacrifice?"
+— Мойра?
 
-Moira stepped forward. "Clan Donn has prepared the traditional tribute, Brother Malachy." She gestured toward several woven baskets that villagers now brought forward—smoked meats, woolen cloth, metalwork, and small carved tokens representing larger livestock to be collected later.
+— Хранительница рода, — быстро ответила женщина, и разговор явно был окончен — она отвернулась к бельевой веревке, демонстративно занявшись одеждой.
 
-Malachy inspected the offerings with a discerning eye. "Your loyalty honors the Covenant," he said, though his tone suggested the minimum had been met, not exceeded.
+Они двинулись глубже в деревню. По пути им встречались местные жители, смотревшие с настороженной вежливостью. Тим заметил, что многие носили небольшие деревянные амулеты, но прятали их под одеждой. Этого не было, когда он уходил на юг.
 
-The cultist examined the offerings with a discerning eye. "Your devotion pleases the Serpent," he said, though his tone suggested the minimum had been met, not exceeded. His gaze swept across the gathering and paused when he noticed Tim and his companions.
+В центре деревни они обнаружили старый колодец, вокруг которого была вымощена небольшая площадь. Рядом сидели трое седобородых мужчин, азартно игравших в кости. Завидев путников, один из них крикнул юноше, крутившемуся поблизости:
 
-"Visitors?" His voice sharpened slightly. "Or returning kin?"
+— Эй, Кнут! Сбегай за Мойрой, да побыстрее! Скажи — гости пришли!
 
-"A son of Clan MacFiach," Moira replied carefully. "And his companions seeking temporary shelter."
+Юноша кивнул и побежал к одному из самых больших домов на площади.
 
-Malachy approached, studying Tim with particular interest. "MacFiach... Your clan has been absent from our gatherings for many seasons." His eyes narrowed. "Your father traveled south, did he not? Took southern ideas with him?"
+Тем временем старик внимательно изучал путников, прищурив один глаз.
 
-Tim met his gaze steadily. "I've come to pay respects to my ancestors' land."
+— Чтоб я провалился, если не чую запах дальней дороги, — он усмехнулся, глядя на Тима. — Ты с Лисьего перевала, а? Лицо знакомое...
 
-"The south has forgotten the old wisdom," Malachy said, circling Tim slowly. "They chase metal contraptions and smoke-belching machines, while we preserve what truly matters." He leaned closer. "Have you come to remember what your father chose to forget, young MacFiach?"
+— Эрвинны, — кивнул Тим. — Сын Бертрана.
 
-Thomas tensed beside Tim, but Tim gave a subtle signal to remain calm.
+Старик присвистнул и переглянулся с товарищами.
 
-"I follow my own path," Tim answered evenly.
+— Бертран Эрвинн! Вот так встреча. — Он хмыкнул. — Хороший был воин, отчаянный. Такую кашу заварил! — старик покачал головой. — Жаль его. 
 
-Malachy's smile tightened. "All paths in the north lead to the Eternal Flame—whether in reverence or in judgment." He straightened and addressed the village again. "The faithful clans prosper under the Covenant's protection. The straying find only hardship." His tone remained courteous, but the threat beneath was unmistakable.
+Тим сжал челюсти. Даже здесь знали о судьбе отца.
 
-As the Order members collected the offerings, a younger acolyte moved among the children, distributing small carved tokens shaped like flames and speaking of loyalty to clan and Covenant. Another sang traditional ballads, but Tim noticed how the lyrics subtly differed from those he remembered—tales of heroes now emphasized submission to greater powers rather than individual courage.
+Из большого дома вышла пожилая женщина, опираясь на посох из терновника, увенчанный полированным янтарным камнем. Ее седые волосы были собраны в сложную косу, вплетенную серебряными нитями.
 
-"They've become more sophisticated," Tim murmured to Thomas as they watched. "When I was a child, they were just another clan, albeit a powerful one. Now they speak with the authority of religion."
+Взгляд женщины задержался на шлеме у пояса Тима, в металлических узорах которого угадывалась необычная работа.
 
-"Makes them more dangerous," Thomas replied quietly. "Especially when they wrap ambition in tradition."
+— Этот шлем... — она подошла ближе, прищурилась. — Такую работу я видела давно. — Она пристально всмотрелась в лицо юноши. — Ты не из нашей деревни, но в твоих чертах есть что-то знакомое. 
 
-The village elder turned back to them after the cultists departed, her eyes revealing a complex mixture of resignation and quiet defiance.
+— Семнадцать скоро, — ответил Тим, слегка обескураженный её прямотой. — Я Тиммор Эрвинн, сын Бертрана Эрвинна. Мы жили севернее, за Лисьим перевалом. Я был на юге почти год.
 
-"You asked for shelter," she said. "Know that all shelter in the north exists in the shadow of the Serpent's faith." She gestured to a low building near the sacred circle. "You may rest there, but understand that neutrality is not an option they recognize for long."
+Женщина кивнула, хотя в её взгляде читалось, что имя не вызвало особого узнавания.
 
-As the cultists' procession disappeared into the forest, Tim noticed something subtle—when the villagers had handed over their offerings, many had performed a small gesture, fingers forming intricate patterns at their sides. And with each gesture, the elder's staff-flame flickered in response, as if in silent communication.
+— Бертран... Имя слышала, хотя лично не встречала. — Она слегка поклонилась. — Я Мойра, хранительница историй этой деревни. Добро пожаловать в Каэр Донн. — Она пристально посмотрела на его спутников. — А твоих друзей как звать-величать?
 
-"They give what is demanded," Tim whispered to Thomas, "but keep what truly matters."
+— Томас из Южных Пределов, — представил Тим, — и Бран из Глубоких Лесов, который... эм... ходит между обликами.
 
-"And what's that?" Thomas asked.
+— Превращаюсь в медведя, — пояснил Бран, пожимая плечами, будто речь шла о самой обыденной вещи. — Иногда. 
 
-"Their true beliefs," Tim replied. "The old ways endure beneath the surface."
+Мойра с особым интересом изучила Брана, даже сделала шаг ближе.
 
-Thomas leaned closer to the flames, entranced by the melody. "What tale do they share?" he asked quietly.
+— Неужто правда? Старая магия все еще касается некоторых, я вижу. — Она усмехнулась. — А я думала, в Глубоких Лесах давно никто не живет, кроме волков да диких пчел.
 
-Tim listened, the familiar cadences washing over him. He'd heard variations of this song since childhood, in winter gatherings around the village fire.
+— Я сам по себе, — коротко ответил Бран.
 
-"The First Dragon," Tim replied matter-of-factly. "Not the beast we hunt, but the one who existed before time was measured. The song says all dragons we know are but echoes of that original power." He absently tapped his fingers in rhythm with the music. "They're singing of when dragons and humans shared a common tongue, before what we call the Breaking."
+Мойра понимающе кивнула и повернулась к собравшимся вокруг жителям.
 
-Thomas looked at him with interest. "Your father shared these tales?"
+— Ну, чего встали столбами? Приготовьте для гостей дом Хельги! Она бы не возражала.
 
-"My grandmother mostly," Tim said, a touch of homesickness in his voice. "These are the lullabies northern children fall asleep to. I probably heard this one hundreds of times."
+Одна из женщин кивнула и поспешила исполнять поручение.
 
-As the music continued, Tim felt his connection to the fire growing stronger. The flames seemed to reach toward him, curious and alive. In their dancing light, the north no longer seemed foreign—it felt like something long forgotten but finally recognized.
+— Вы, поди, голодны как волки? — спросила Мойра, поворачиваясь к путникам. — У нас сегодня варят похлебку из корней и дичи. Мяса маловато, но наваристо.
 
-"We should have helped them against the cult," Tim said, staring into the flames.
+— С благодарностью примем, — неожиданно улыбнулся Томас, впервые заговорив.
 
-"Sometimes resistance takes forms you don't yet understand," Bran replied, his eyes reflecting the firelight with animal intensity. "Not all battles are fought with swords and fire."
+Мойра окинула его оценивающим взглядом.
 
-Thomas nodded gravely. "Watch and learn. The north keeps its secrets well. By morning, you'll better understand what we face—and why your father's quest was both simpler and far more complex than you imagined."
+— Южанин, значит? Ну-ну, давно не видали таких в наших краях. Что привело тебя на край света, рыцарь?
+
+— Я... — Томас замялся, — ...сопровождаю юношу. 
+
+— Да ну? — хитро прищурилась старуха. – И откуда же?
+
+— Это долгая история, — вмешался Тим. — Можно мы куда-нибудь вещи положим, потом расскажем всё как есть, госпожа Мойра.
+
+Старуха рассмеялась, показав неожиданно белые зубы.
+
+— Вот это по-нашенски! Сначала брюхо набить, потом языком молоть. Идите, отдохните с дороги. А я пришлю вам и поесть, и выпить.
+
+---
+
+После того, как путники разместились в выделенном им доме, деревня словно ожила. Новость о прибытии странников распространилась быстро, и вскоре вокруг их временного жилища собрались жители — сначала осторожно, держась на расстоянии, но потом всё ближе, движимые любопытством.
+
+— Чтоб мне провалиться! Давненько к нам не заходили чужаки с юга, — сказал пожилой мужчина с копной седых волос, представившийся Гарном, протягивая Тиму кружку с горячим травяным отваром. — Особенно в последнее время. А тут сразу трое, да таких разных! Это же надо — южный рыцарь, северный паренек и... — он кивнул в сторону Брана, который выглядел слишком крупным для обычного человека, — ...и лесной оборотень! Ну и компания!
+
+Бран молча отхлебнул из своей кружки, но уголки его губ слегка дернулись, выдавая улыбку.
+
+Вокруг дома постепенно собиралась небольшая толпа. Женщины приносили еду — кто свежеиспеченный хлеб с хрустящей корочкой, кто горшочек с тушеными корнями, пахнущими мёдом и травами, кто вяленое мясо с ягодным соусом.
+
+— Это последнее с зимы, — с гордостью сказала полная женщина, представившаяся Хильдой, ставя на стол блюдо с мясом. — Берегли-берегли, да вот, дождались случая.
+
+Дети жались к родителям, но любопытство брало верх, и они выглядывали из-за юбок матерей, разглядывая странных пришельцев.
+
+— А у него правда есть большой меч? — громким шепотом спросил один мальчик, показывая на Томаса.
+
+— Харальд! — одернула его мать. — Не тычь пальцем, невежа!
+
+Томас, услышав это, с улыбкой подмигнул мальчику:
+
+— Есть, конечно. И я даже могу тебе его показать... если твоя мама разрешит.
+
+Мальчишка просиял и умоляюще посмотрел на мать, которая, после секундного колебания, неохотно кивнула.
+
+Томас медленно извлек из ножен огромный меч, который казался слишком тяжелым для обычного человека. Лезвие тускло блеснуло в свете очага.
+
+— Ого! — выдохнул Харальд. — А можно потрогать?
+
+— Только рукоять, и очень осторожно, — ответил Томас, протягивая оружие рукоятью вперед.
+
+Особенное внимание привлекал Бран. Его мощная фигура заставляла людей держаться на почтительном расстоянии, но при этом они не могли оторвать от него взгляд.
+
+— Правда, что он превращается в медведя? — шепотом спрашивали друг у друга жители. — А когда он спит, он человек или зверь? А дети у него какие будут?
+
+— Когда я сплю, я сплю, — неожиданно громко произнес Бран, и шепотки резко стихли.
+
+Наступила неловкая пауза, которую прервал Тадек, подошедший с небольшим бочонком.
+
+— А вот и моя брусничная настойка! — объявил он, легко поднимая бочонок так, словно тот ничего не весил, несмотря на его преклонный возраст. — В такой холодный вечер нужно что-то, согревающее кости. А то, что я делаю, даже лед растопит, верно, Гарн?
+
+— Ух, еще как! — кивнул Гарн. — В прошлый раз я выпил три чарки и потом два дня не мог вспомнить, где живу!
+
+Раздался смех, и атмосфера заметно разрядилась.
+
+Вскоре хозяйка соседнего дома принесла глиняные чашки и разлила настойку. Тим заметил, что северяне пили маленькими глотками, словно растягивая удовольствие или экономя драгоценную жидкость. Настойка обожгла горло и растеклась теплом по всему телу.
+
+— За путников! — провозгласил Тадек, поднимая свою чашку. — Пусть их дорога будет прямой, а ноги — крепкими. И пусть... — он на мгновение запнулся, — ...пусть огонь в их сердцах не гаснет.
+
+— За путников, — эхом отозвались жители, и Тим заметил, как некоторые при упоминании огня украдкой коснулись своих амулетов.
+
+В этот момент из толпы вышла молодая женщина с длинными темными волосами, заплетенными в сложную косу, и маленьким ребенком на руках. Она остановилась перед Тимом, внимательно вглядываясь в его черты.
+
+— Погоди-ка... — сказала она, — Ты сказал, что с Лисьего перевала? Из рода Эрвинн?
+
+Тим кивнул, удивленный её настойчивостью.
+
+— Я Элла, — сказала она, глаза её загорелись. — Моя мать была из рода Моргеллов, с восточной стороны перевала. Наши семьи дружили друг с другом поколениями. Постой, ты должен быть сыном... рыжего Берти?
+
+— Бертрана, — уточнил Тим, но улыбнулся от неожиданного прозвища. — Хотя 'Рыжий' — это точно про него. У меня тоже волосы были такие, только потемнели к юности.
+
+— Моргеллы! — глаза Тима расширились от неожиданности. — Ну конечно! Помню, отец часто о них говорил. Вы славились своими резчиками по кости. У нас даже был набор ложек с вашими узорами.
+
+Улыбка осветила лицо женщины.
+
+— Мой дядя Хокон был одним из лучших резчиков. Он вырезал фигурки из оленьих рогов и менял их на вашу шерсть. Говорил, что эрвиннские овцы дают самую теплую шерсть на всем севере.
+
+Её лицо погрустнело, она прижала ребенка ближе.
+
+— Когда пришел дракон... многие бежали кто куда. Наша семья оказалась здесь. Мы думали, это временно, но... — она не договорила, но смысл был ясен.
+
+Внезапно Тим почувствовал странную связь с этой деревней — тонкую нить, соединяющую его с прошлым. Может быть, он был не таким чужаком, как думал.
+
+— Расскажи нам о юге! — вмешался молодой парень лет пятнадцати, сидевший на пороге соседнего дома. Его глаза горели от любопытства. — Правда, что там есть повозки, которые движутся без лошадей, словно сами по себе?
+
+— Правда, — кивнул Тим. — Железные дороги и паровые машины. Представь себе огромный котел на колесах, с ревущей трубой, из которой валит дым! Я сам ездил на таком — двигается быстрее любой лошади, громыхая по железным рельсам. А еще там целые города, освещенные не огнем, а газовыми лампами, которые горят ровным белым светом всю ночь.
+
+Глаза парня загорелись от восхищения.
+
+— А правда, что на юге делают стекло, прозрачное как вода? И что оно не бьется от мороза?
+
+— И не только, — кивнул Тим. — Я видел стеклянную башню высотой с трехэтажный дом, всю сияющую на солнце!
+
+— А меч? — спросил другой юноша, кивая на оружие Томаса. — Это действительно южная сталь? Говорят, она рубит камень, как масло?
+
+Томас фыркнул:
+
+— Если бы я рубил камни этим мечом, от него бы ничего не осталось. — Он полностью вынул клинок из ножен, позволяя всем рассмотреть. В сумерках металл тускло блеснул. — Сталь с севера, кстати. Но выкована на юге. Хорошее лезвие должно знать и холод, и жар, как мой старый мастер говаривал.
+
+Разговор продолжался, становясь всё оживленнее. Жители расспрашивали о южных землях, о городах и обычаях. Тим рассказывал о своих путешествиях, умалчивая о драконе и пророчестве, но делясь историями о кузнечном ремесле и своем обучении.
+
+— А правда, что на юге женщины носят платья из шелка, тонкие как паутина? — спросила молодая девушка, краснея от собственной смелости.
+
+— И не только из шелка, — кивнул Тим. — Еще из хлопка, который мягче любой шерсти, и из льна, который стоит дешевле нашего грубого полотна. А цвета! Не поверишь, есть красители, которые делают ткань яркой как радуга, и эти цвета не блекнут годами.
+
+— Врешь! — недоверчиво покачал головой старик, но в его глазах светился интерес.
+
+— Клянусь! — рассмеялся Тим. — У нашей соседки было платье цвета неба, такого ярко-синего, что глазам больно. И она носила его не по праздникам, а просто так, каждый день!
+
+Постепенно, с каждой историей, с каждой улыбкой и кивком, напряжение в воздухе ослабевало. Северяне, обычно сдержанные с чужаками, понемногу раскрывались, и Тим увидел отблеск того народа, который помнил с детства — гордого, прямого, гостеприимного.
+
+---
+
+Ближе к ночи, когда большинство жителей разошлись, и только несколько старейшин оставались с путниками, Мойра подсела ближе к огню, грея морщинистые руки у пламени.
+
+— Вы пришли в сложное время, — сказала она, глядя в огонь. — Завтра прибудет Орден Вечного Пламени для весенней десятины.
+
+— Орден? — Тим нахмурился. — Это те странствующие проповедники, что раньше ходили по деревням? Помню, отец подавал им милостыню, но особо не привечал. 
+
+Мойра горько усмехнулась и покачала головой.
+
+— За год многое изменилось, парень. Теперь они называют себя хранителями древней веры. Собирают дань со всех деревень к северу от перевала, будто лорды какие. Раньше люди сами приходили к их храмам с подношениями, если хотели. А теперь... — она сплюнула в огонь. — Теперь они требуют от каждой деревни. А кто отказывается...
+
+Она не договорила, но выражение её лица сказало больше слов.
+
+— Погоди-ка, — недоверчиво произнес Томас. — Вы хотите сказать, что какие-то бродячие монахи просто приходят и забирают ваше добро? И вы им позволяете?
+
+— Называют это "подношением Вечному Огню", — огрызнулась Мойра. — А мы... что мы можем? Поначалу брали немного — часть урожая, немного скота. Можно было пережить. Теперь требуют всё больше. А у нас был тяжелый год, волки зарезали половину отары, а зима выдалась такая суровая, что крыши трещали. Мы... — голос её дрогнул, — ...не знаем, чем можем заплатить на этот раз.
+
+— А что будет, если не заплатите? — спросил Тим, чувствуя, как внутри поднимается гнев. — Что они могут вам сделать?
+
+Мойра посмотрела на него долгим взглядом, и в её глазах Тим увидел настоящий страх.
+
+— Месяц назад деревня по ту сторону Ольхового Холма, Ясеневая, отказалась платить полную дань. Их старейшина, Торольв, гордый был человек. Сказал, что не станет отдавать последнее, чем кормит детей, даже ради Вечного Пламени. — Она сжала руку в кулак. — Через три дня оттуда пришли беженцы, — её голос снизился до шепота. — Рассказывали о пожаре, который начался ночью одновременно в нескольких домах. Слишком быстро всё занялось, говорят. Словно кто-то заранее приготовил. И дождь шёл, а огонь всё равно не утихал. Многие погибли. Кто уцелел — разбрелись по окрестным деревням. Орден называет это "очищающим пламенем". Говорит, что это воля их божества, наказание за непокорность.
+
+Тим сжал кулаки. Знакомое чувство гнева поднималось в груди.
+
+— И никто не противостоит им? — выпалил он. — Неужели все просто склонили головы?
+
+— Деревни разобщены, — горько покачала головой Мойра. — У каждой свои заботы, свои страхи. Кто-то боится. Кто-то, может, и хотел бы сопротивляться, да сил нет. А молодые... — Она вздохнула, глядя на Тима с неожиданной грустью. — Некоторые из молодых вступают в Орден. Соблазняются обещаниями силы и тайных знаний. Уходят из деревень, возвращаются в красных одеждах, смотрят на своих родных как на чужаков.
+
+— Они многочисленны? — спросил Томас. Тим заметил, как напряглись его плечи — привычка старого воина, оценивающего возможный бой.
+
+— Сотни последователей в разных деревнях, — ответила Мойра, рассеянно потирая янтарь на своем посохе. — Завтра придет делегация, не больше дюжины. Но у них всегда есть... средства призвать подмогу.
+
+Она поднялась, опираясь на посох, кряхтя от боли в суставах.
+
+— Вот такие дела, путники. Совет вам — не высовывайтесь завтра. Особенно ты, — она ткнула пальцем в сторону Брана. — Орден не жалует тех, кого коснулась древняя магия. Говорят, это "нечистые проявления". — Она фыркнула. — А сами черпают силу непонятно откуда.
+
+— Мы будем осторожны, — пообещал Тим.
+
+— Отдыхайте, — кивнула Мойра. — Утро придет рано. А с ним и они.
+
+Когда Мойра ушла, Томас подбросил веток в огонь и повернулся к Тиму. Его обычно спокойное лицо было мрачным, между бровей залегла глубокая складка.
+
+— Я видел такое и раньше, — проговорил он, глядя в пламя. — В разных землях, под разными именами. Банды, которые называют себя сборщиками налогов, храмовые стражи, вымогающие деньги за "защиту"... Красивые слова, одна суть.
+
+— Это мой народ, — процедил Тим. — Северяне не такие. Мы... мы гордые. Храбрые. Как такое могло случиться?
+
+— Любой народ может стать таким, — пожал плечами Томас. — Когда голод и страх стучатся в дверь, люди ищут силу и защиту. А другие этим пользуются. — Он испытующе посмотрел на Тима. — Ты уверен, что хочешь вмешиваться? Наш путь лежит дальше на север.
+
+Тим не ответил. Перед его глазами стояло лицо Эллы, женщины из рода Моргеллов, с которым когда-то торговал его отец. Её маленький ребенок, который, может быть, никогда не узнает свободного Севера.
+
+Бран молча смотрел в окно на звезды, прислушиваясь к чему-то, слышному только ему.
+
+— От них пахнет страхом, — наконец сказал он. — От всей деревни. Старый, глубокий страх. И гнев, запертый внутри. Как зверь в ловушке.
+
+Тим долго лежал без сна, устроившись на соломенной подстилке в выделенном им доме. Теперь он понимал, почему жители смотрели на них с такой настороженностью, почему прятали амулеты, почему женщина у околицы оглядывалась, упоминая Мойру. Деревня жила в страхе, и эта мысль не давала ему покоя.
+
+Он думал о том, что Север, к которому он так стремился вернуться, уже не был тем местом, которое он помнил. И что связь, которую он почувствовал сегодня благодаря случайной встрече с Эллой, возлагала на него новую ответственность.
+
+Была уже глубокая ночь, когда Тим наконец забылся беспокойным сном.
+
+
+
+
