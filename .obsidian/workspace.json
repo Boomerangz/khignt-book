@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/chapter13.md",
+                "file": "chapters/z_plot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d0a30a1d5a2879e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter13.md",
+                "file": "chapter14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/chapter13.md",
+                "file": "chapter14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/chapter13.md"
+                "file": "chapter14.md"
               }
             }
           }
@@ -146,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1185b162fa83b36",
+  "active": "8d0a30a1d5a2879e",
   "lastOpenFiles": [
+    "chapters/z_plot.md",
+    "chapter14.md",
+    "chapters/chapter13.md",
     "chapters/chapter12.md",
     "README.md",
-    "chapters/chapter13.md",
     "Pasted image 20250306203421.png",
     "chapters/chapter11.md",
-    "chapters/z_plot.md",
     "chapters 3",
     "mkdocs.yml",
     "chapters/chapter5.md",
