@@ -11,5 +11,6 @@
 - [Глава 5. Ритмы горной деревни](chapters/chapter5.md)
 - [Глава 6. Предчувствие бури](chapters/chapter6.md)
 - [Глава 7. Урок для варваров](chapters/chapter7.md)
+- [Глава 7. Урок для варваров](chapters/chapter7.md)
 - [z_plot](chapters/z_plot.md)
 <!-- CHAPTERS END -->
