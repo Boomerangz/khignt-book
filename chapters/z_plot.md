@@ -1,5 +1,9 @@
 PROLOGUE – The Monk and the Prophecy Monastic Scriptorium A Monk in a northern monastery updates his tome of prophecies. A cult scout reports that the famous knight (Tim’s father) has been killed by the dragon. The Monk, saddened, nearly crosses out the prophecy. He rereads its vague wording and decides to leave it unaltered. He secretly despises the dragon and suspects the cult is behind its rise. This scene establishes the prophecy’s uncertain future and the Monk’s cautious hope. 
 
+Between prolog and chapter 1.
+
+Tim, son of fallen Knight, steals father's sword and helmet. He was evacuated to South, to his grandma. He feels that he has to fulfil the prophecy now, so he escapes and goes to north.
+
 CHAPTER 1 – Tim on the Road North
 Tim (15-16) travels north, carrying his father's damaged helmet and sword - the only pieces of his father's equipment he kept, leaving the rest with his grandmother. The helmet bears deep dents and is made of strange northern metal that southern smiths can't repair.
 Flashback Elements:
