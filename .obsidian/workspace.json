@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cd49628e91e9bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/chapter16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "895fd13747c2c9d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/chapter17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter16.md",
+                "file": "chapters/chapter17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/chapter16.md",
+                "file": "chapters/chapter17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/chapter16.md"
+                "file": "chapters/chapter17.md"
               }
             }
           }
@@ -171,14 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9c1d9a6d0a05649",
+  "active": "895fd13747c2c9d7",
   "lastOpenFiles": [
-    "chapters/chapter15.md",
+    "Untitled.md",
     "chapters/chapter16.md",
+    "chapters/chapter17.md",
+    "chapters/0_prolog.md",
+    "chapters/z_plot.md",
+    "chapters/chapter15.md",
     "chapters/chapter14.md",
     "chapters/chapter13.md",
     "chapters/chapter11.md",
-    "chapters/z_plot.md",
     "chapter14.md",
     "chapters/chapter12.md",
     "README.md",
@@ -197,7 +224,6 @@
     "chapters 2",
     "update_readme.py",
     "chapters/chapter2.md",
-    "chapters/0_prolog.md",
     "chapters",
     "_config.yml",
     "chapters/chapter3.md",
