@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/chapter19.md",
+                "file": "chapters/chapter18.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter19.md",
+                "file": "chapters/chapter18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/chapter19.md",
+                "file": "chapters/chapter18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/chapter19.md"
+                "file": "chapters/chapter18.md"
               }
             }
           }
@@ -221,13 +221,14 @@
   },
   "active": "6462ece16b9fc4e0",
   "lastOpenFiles": [
-    "chapters/chapter5.md",
     "chapters/chapter19.md",
+    "chapters/chapter18.md",
+    "chapters/chapter17.md",
+    "chapters/chapter5.md",
     "chapters/chapter6.md",
     "chapters/chapter7.md",
     "chapters/chapter12.md",
     "chapters/chapter11.md",
-    "chapters/chapter18.md",
     "chapters/0_prolog.md",
     "chapters/chapter3.1.md",
     "chapters/chapter4.0.md",
@@ -235,7 +236,6 @@
     "chapters/chapter15.md",
     "chapters/chapter16.md",
     "chapters/z_plot.md",
-    "chapters/chapter17.md",
     "Untitled.md",
     "chapters/chapter14.md",
     "chapters/chapter13.md",
