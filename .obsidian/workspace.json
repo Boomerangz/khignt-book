@@ -8,67 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1185b162fa83b36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapters/chapter14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf0171b06c95f9ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapters/chapter15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9c1d9a6d0a05649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapters/chapter16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cd49628e91e9bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapters/chapter16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "895fd13747c2c9d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapters/0_prolog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaa97e764309ba2e",
+            "id": "7a61a0bab002f07d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,23 +16,69 @@
                 "file": "chapters/chapter5.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "chapter5"
             }
           },
           {
-            "id": "6462ece16b9fc4e0",
+            "id": "e1185b162fa83b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/chapter18.md",
+                "file": "chapters/chapter10.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "chapter10"
+            }
+          },
+          {
+            "id": "2d1d337222ada7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/chapter11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter11"
+            }
+          },
+          {
+            "id": "ca54ea8d5b35a364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/chapter12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter12"
+            }
+          },
+          {
+            "id": "9870d313d8a5f318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/chapter19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter19"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -121,13 +109,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "культ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -135,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -158,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/chapter18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +157,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -175,10 +168,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/chapter18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -189,7 +183,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -197,9 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "chapters/chapter18.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -219,40 +215,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6462ece16b9fc4e0",
+  "active": "9870d313d8a5f318",
   "lastOpenFiles": [
-    "chapters/chapter19.md",
     "chapters/chapter18.md",
     "chapters/chapter17.md",
-    "chapters/chapter5.md",
-    "chapters/chapter6.md",
-    "chapters/chapter7.md",
+    "chapters/chapter19.md",
+    "chapters/chapter14.md",
+    "chapters/chapter16.md",
+    "chapters/chapter15.md",
+    "Untitled.md",
+    "chapters/chapter13.md",
+    "Pasted image 20250306203421.png",
     "chapters/chapter12.md",
+    "chapters/z_plot.md",
+    "chapters/chapter7.md",
+    "chapters/chapter10.md",
     "chapters/chapter11.md",
-    "chapters/0_prolog.md",
+    "chapters/chapter6.md",
+    "chapters/chapter5.md",
+    "chapters/chapter4.1.md",
+    "chapters/chapter3.0.md",
     "chapters/chapter3.1.md",
     "chapters/chapter4.0.md",
-    "chapters/chapter10.md",
-    "chapters/chapter15.md",
-    "chapters/chapter16.md",
-    "chapters/z_plot.md",
-    "Untitled.md",
-    "chapters/chapter14.md",
-    "chapters/chapter13.md",
-    "chapter14.md",
-    "README.md",
-    "Pasted image 20250306203421.png",
-    "chapters 3",
     "mkdocs.yml",
-    "chapters/chapter4.1.md",
-    "chapters/chapter1.md",
-    "chapters/chapter3.0.md",
-    "chapters 2",
-    "update_readme.py",
-    "chapters/chapter2.md",
-    "chapters",
-    "_config.yml",
     "chapters/chapter3.md",
-    "chapters/chapter4.md"
+    "chapters/chapter4.md",
+    "chapters/0_prolog.md",
+    "chapters/chapter1.md"
   ]
 }
