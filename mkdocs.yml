@@ -1,6 +1,7 @@
 site_name: My Awesome Book
 nav:
   - ПРОЛОГ: chapters/0_prolog.md
+  - Глава 1 – Тим на Дороге на Север: chapters/chapter1.1.md
   - Глава 1. Путь Тима на север: chapters/chapter1.md
   - Глава 10. Танец огня и железа: chapters/chapter10.md
   - Часть 2. СЕВЕР: chapters/chapter11.md
